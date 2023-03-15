@@ -1,3 +1,4 @@
 [submodule "cryptoTools"]
 	path = cryptoTools
-	url = https://github.com/ladnir/cryptotools
+	url = git@github.com:robinhundt/cryptoTools.git
+	branch = master
