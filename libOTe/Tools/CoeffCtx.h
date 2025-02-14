@@ -1,5 +1,4 @@
 #pragma once
-#include "libOTe/Vole/Noisy/NoisyVoleSender.h"
 #include "cryptoTools/Common/BitIterator.h"
 #include "cryptoTools/Common/BitVector.h"
 #include <sstream>
